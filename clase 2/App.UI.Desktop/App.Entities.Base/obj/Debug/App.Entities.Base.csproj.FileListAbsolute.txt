@@ -1,0 +1,12 @@
+C:\cibertec\Developer\App.UI.Desktop\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+C:\cibertec\Developer\App.UI.Desktop\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+C:\cibertec\Developer\App.UI.Desktop\App.Entities.Base\obj\Debug\App.Entities.Base.csprojAssemblyReference.cache
+C:\cibertec\Developer\App.UI.Desktop\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+C:\cibertec\Developer\App.UI.Desktop\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+C:\cibertec\Developer\App.UI.Desktop\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
+D:\carlos\clase 2\App.UI.Desktop\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+D:\carlos\clase 2\App.UI.Desktop\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+D:\carlos\clase 2\App.UI.Desktop\App.Entities.Base\obj\Debug\App.Entities.Base.csprojResolveAssemblyReference.cache
+D:\carlos\clase 2\App.UI.Desktop\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+D:\carlos\clase 2\App.UI.Desktop\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+D:\carlos\clase 2\App.UI.Desktop\App.Entities.Base\obj\Debug\App.Entities.Base.pdb

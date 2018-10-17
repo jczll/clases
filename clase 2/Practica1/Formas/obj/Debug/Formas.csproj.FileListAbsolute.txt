@@ -1,0 +1,6 @@
+C:\cibertec\Developer\clase 2\Practica1\Formas\bin\Debug\Formas.dll
+C:\cibertec\Developer\clase 2\Practica1\Formas\bin\Debug\Formas.pdb
+C:\cibertec\Developer\clase 2\Practica1\Formas\obj\Debug\Formas.csprojAssemblyReference.cache
+C:\cibertec\Developer\clase 2\Practica1\Formas\obj\Debug\Formas.csproj.CoreCompileInputs.cache
+C:\cibertec\Developer\clase 2\Practica1\Formas\obj\Debug\Formas.dll
+C:\cibertec\Developer\clase 2\Practica1\Formas\obj\Debug\Formas.pdb

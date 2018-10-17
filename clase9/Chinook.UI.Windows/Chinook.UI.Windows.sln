@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chinook.UI.Windows", "Chinook.UI.Windows\Chinook.UI.Windows.csproj", "{32E75AB0-1707-44A5-8AEF-C195A2009ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32E75AB0-1707-44A5-8AEF-C195A2009ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E75AB0-1707-44A5-8AEF-C195A2009ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E75AB0-1707-44A5-8AEF-C195A2009ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E75AB0-1707-44A5-8AEF-C195A2009ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEFEF306-3695-4AE1-BBA4-AE8BD709905D}
+	EndGlobalSection
+EndGlobal

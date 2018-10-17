@@ -1,0 +1,12 @@
+D:\carlos\clase3\Chinook.UI.Windows\Chinook.Etities.Base\bin\Debug\Chinook.Etities.Base.dll
+D:\carlos\clase3\Chinook.UI.Windows\Chinook.Etities.Base\bin\Debug\Chinook.Etities.Base.pdb
+D:\carlos\clase3\Chinook.UI.Windows\Chinook.Etities.Base\obj\Debug\Chinook.Etities.Base.csprojResolveAssemblyReference.cache
+D:\carlos\clase3\Chinook.UI.Windows\Chinook.Etities.Base\obj\Debug\Chinook.Etities.Base.csproj.CoreCompileInputs.cache
+D:\carlos\clase3\Chinook.UI.Windows\Chinook.Etities.Base\obj\Debug\Chinook.Etities.Base.dll
+D:\carlos\clase3\Chinook.UI.Windows\Chinook.Etities.Base\obj\Debug\Chinook.Etities.Base.pdb
+C:\cibertec\Developer\clase3\Chinook.UI.Windows\Chinook.Etities.Base\bin\Debug\Chinook.Etities.Base.dll
+C:\cibertec\Developer\clase3\Chinook.UI.Windows\Chinook.Etities.Base\bin\Debug\Chinook.Etities.Base.pdb
+C:\cibertec\Developer\clase3\Chinook.UI.Windows\Chinook.Etities.Base\obj\Debug\Chinook.Etities.Base.csprojAssemblyReference.cache
+C:\cibertec\Developer\clase3\Chinook.UI.Windows\Chinook.Etities.Base\obj\Debug\Chinook.Etities.Base.csproj.CoreCompileInputs.cache
+C:\cibertec\Developer\clase3\Chinook.UI.Windows\Chinook.Etities.Base\obj\Debug\Chinook.Etities.Base.dll
+C:\cibertec\Developer\clase3\Chinook.UI.Windows\Chinook.Etities.Base\obj\Debug\Chinook.Etities.Base.pdb
