@@ -1,6 +1,0 @@
-E:\cibertec\Developer\clase5\src\Chinook.UI.Windows\Chinook.EF.CodeFirst.Entities\bin\Debug\Chinook.EF.CodeFirst.Entities.dll
-E:\cibertec\Developer\clase5\src\Chinook.UI.Windows\Chinook.EF.CodeFirst.Entities\bin\Debug\Chinook.EF.CodeFirst.Entities.pdb
-E:\cibertec\Developer\clase5\src\Chinook.UI.Windows\Chinook.EF.CodeFirst.Entities\obj\Debug\Chinook.EF.CodeFirst.Entities.csprojResolveAssemblyReference.cache
-E:\cibertec\Developer\clase5\src\Chinook.UI.Windows\Chinook.EF.CodeFirst.Entities\obj\Debug\Chinook.EF.CodeFirst.Entities.csproj.CoreCompileInputs.cache
-E:\cibertec\Developer\clase5\src\Chinook.UI.Windows\Chinook.EF.CodeFirst.Entities\obj\Debug\Chinook.EF.CodeFirst.Entities.dll
-E:\cibertec\Developer\clase5\src\Chinook.UI.Windows\Chinook.EF.CodeFirst.Entities\obj\Debug\Chinook.EF.CodeFirst.Entities.pdb

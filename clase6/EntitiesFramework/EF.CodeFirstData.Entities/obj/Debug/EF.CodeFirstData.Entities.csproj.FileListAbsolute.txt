@@ -1,6 +1,0 @@
-E:\cibertec\Developer\EntitiesFramework\EntitiesFramework\EF.CodeFirstData.Entities\bin\Debug\EF.CodeFirstData.Entities.dll
-E:\cibertec\Developer\EntitiesFramework\EntitiesFramework\EF.CodeFirstData.Entities\bin\Debug\EF.CodeFirstData.Entities.pdb
-E:\cibertec\Developer\EntitiesFramework\EntitiesFramework\EF.CodeFirstData.Entities\obj\Debug\EF.CodeFirstData.Entities.csprojResolveAssemblyReference.cache
-E:\cibertec\Developer\EntitiesFramework\EntitiesFramework\EF.CodeFirstData.Entities\obj\Debug\EF.CodeFirstData.Entities.csproj.CoreCompileInputs.cache
-E:\cibertec\Developer\EntitiesFramework\EntitiesFramework\EF.CodeFirstData.Entities\obj\Debug\EF.CodeFirstData.Entities.dll
-E:\cibertec\Developer\EntitiesFramework\EntitiesFramework\EF.CodeFirstData.Entities\obj\Debug\EF.CodeFirstData.Entities.pdb
